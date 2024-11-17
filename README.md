@@ -179,7 +179,7 @@ Streamlit for the wonderful UI framework
 
 📫 Contact
 Your Name - @yourusername
-Project Link: https://github.com/yourusername/text-rewriter
+Project Link: https://github.com/infantesromeroadrian/Rewriter-LLMs_Langchain.git
 🚀 Future Improvements
 
  Add more language support
